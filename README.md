@@ -1,3 +1,4 @@
+# Cruzadinha
 ![Tela do Jogo](https://github.com/felipemarchi/palavras-cruzadas-php/blob/master/arquivos/snapshot.png "Tela do Jogo")
 
 **Requisitos para jogar:**
@@ -8,4 +9,3 @@
 	- Coluna "palavra" PK
 	- Coluna "dica"
 	- Coluna "categoria"
-# Cruzadinha
